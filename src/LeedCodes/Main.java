@@ -10,7 +10,7 @@ public class Main {
 subSequence sb=new subSequence();
 System.out.print(sb.isSubsequence("abcyuod","ayd"));
 System.out.print(sb.isSubsequence("abcyuod","ayd"));
-System.out.print("boom");
+System.out.print("boom34");
 System.out.print("boom2");
 System.out.print("boom99955");
     }
